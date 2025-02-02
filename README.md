@@ -10,9 +10,7 @@ My name is **Gusuleac Bogdan** and I am a full stack developer. I am always sear
 
 **Reach me at** [LinkedIn](https://www.linkedin.com/in/bogdangusuleac/).
 
----
-
-## 🔬 Tech Stack
+# 🔬 Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -58,9 +56,7 @@ My name is **Gusuleac Bogdan** and I am a full stack developer. I am always sear
 ![Ollama](https://img.shields.io/badge/Ollama-00BFFF?style=flat&logo=python&logoColor=white)
 ![Automatic1111](https://img.shields.io/badge/Automatic1111-FF1493?style=flat&logo=python&logoColor=white)
 
----
-
-## 🌟 Achievements
+# 🌟 Achievements
 
 ### 🏆 **30+ Hackathons**
   
